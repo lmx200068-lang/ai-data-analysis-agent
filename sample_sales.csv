@@ -1,0 +1,11 @@
+order_id,date,region,product,quantity,unit_price,revenue
+1,2026-05-01,East,Laptop,2,6000,12000
+2,2026-05-01,South,Phone,5,3000,15000
+3,2026-05-02,North,Tablet,3,2200,6600
+4,2026-05-02,East,Phone,4,3000,12000
+5,2026-05-03,West,Laptop,1,6000,6000
+6,2026-05-03,South,Tablet,6,2200,13200
+7,2026-05-04,North,Phone,2,3000,6000
+8,2026-05-04,West,Laptop,3,6000,18000
+9,2026-05-05,East,Tablet,5,2200,11000
+10,2026-05-05,South,Laptop,2,6000,12000
